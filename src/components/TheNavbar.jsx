@@ -11,7 +11,7 @@ const TheNavbar = ({ onDeleteAll, logOut }) => {
   };
 
   return (
-    <nav className="relative flex items-center justify-between bg-neutral-800 px-5 sm:px-10 py-5">
+    <nav className="relative flex items-center justify-between bg-blue-500 px-5 sm:px-10 py-5">
       <div>
         <Link to="/" className="flex items-center space-x-3">
           <img
