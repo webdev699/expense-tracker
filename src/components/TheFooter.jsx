@@ -1,6 +1,6 @@
 const TheFooter = () => {
   return (
-    <footer className="text-white bg-zinc-800 py-4 text-center">
+    <footer className="text-white bg-blue-500 py-4 text-center">
       <p className="text-gray-400 text-xs">
         &copy; Expense Tracker App. All Rights Reserved. | Designed by{" "}
         <a
