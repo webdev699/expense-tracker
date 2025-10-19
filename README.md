@@ -60,7 +60,7 @@ npm run dev
 
 ## Contribution
 
-Contributions are welcome! Please feel free to submit [pull requests](https://github.com/danielace1/expense-tracker-app/pulls) or [open issues](https://github.com/danielace1/expense-tracker-app/issues) for any bugs or feature requests.
+Contributions are welcome! Please feel free to submit [pull requests](https://github.com/webdev699/expense-tracker-app/pulls) or [open issues](https://github.com/danielace1/expense-tracker-app/issues) for any bugs or feature requests.
 
 ## License
 
