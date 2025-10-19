@@ -12,7 +12,7 @@ const ExpenseCard = ({ index, id, name, desc, amount, onEdit, onDelete }) => {
 
   return (
     <div
-      className="flex items-center text-white sm:px-3 py-2 hover:bg-neutral-700 rounded hover:bg-opacity-20"
+      className="flex items-center text-white sm:px-3 py-2 hover:bg-blue-700 rounded hover:bg-opacity-20"
       id={id}
     >
       <div className="mr-3 text-sm">{index}.</div>{" "}
