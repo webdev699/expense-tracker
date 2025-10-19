@@ -217,7 +217,7 @@ const UserLayout = () => {
 
       <main>
         <section
-          className={`relative bg-zinc-800 min-h-screen py-1 overflow-hidden `}
+          className={`relative bg-orange-400 min-h-screen py-1 overflow-hidden `}
         >
           {/* Glass effect layer */}
           {(dialogbox || updateform) && (
