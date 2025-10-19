@@ -1,14 +1,9 @@
-# 💸 Expense Tracker App
+# 💸 Expense Tracker 
 
 The Expense Tracker App is a web application designed to help users track their expenses efficiently. It allows users to add, edit, and delete expenses, providing a convenient way to manage their finances.
 
-## Screenshots
 
-![Expense-Tracker-App](public/Screenshot.png)
 
-## Live Link
-
-[Live Link](https://expense-tracker-app-khaki.vercel.app/)
 
 ## 🌟 Features
 
@@ -34,8 +29,7 @@ The Expense Tracker App is a web application designed to help users track their 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/danielace1/expense-tracker-app.git
-```
+git clone https://github.com/699
 
 2. Install dependencies:
 
@@ -60,12 +54,6 @@ npm run dev
 
 ## Contribution
 
-Contributions are welcome! Please feel free to submit [pull requests](https://github.com/webdev699/expense-tracker-app/pulls) or [open issues](https://github.com/danielace1/expense-tracker-app/issues) for any bugs or feature requests.
+Contributions are welcome! Please feel free to submit [pull requests](https://github.com/webdev699/expense-tracker/pulls) or [open issues](https://github.com/danielace1/expense-tracker-app/issues) for any bugs or feature requests.
 
-## License
 
-This project is licensed under the [MIT](./LICENSE)
-
-## Author
-
-- [Sudharsan](https://instagram.com/sudharsan_daniel)
